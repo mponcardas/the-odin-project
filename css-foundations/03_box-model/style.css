@@ -1,0 +1,13 @@
+body {
+	font-family: Onest, Helvetica, sans-serif;
+	background-color: #cecece;
+}
+
+* {
+	outline: 1px solid red;
+}
+
+.main {
+	max-width: 700px;
+	margin: 0 auto;
+}
